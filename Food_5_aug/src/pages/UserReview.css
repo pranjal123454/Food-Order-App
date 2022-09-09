@@ -1,0 +1,17 @@
+.customers>img:hover{
+    /* image-rendering: none; */
+ /* background-image: url("file:///C:/VE/00_IDs/DP.jpg") */
+
+ /* opacity: 0; */
+ /* background-image:url("file:///C:/VE/00_IDs/DP.jpg"); */
+}
+.card {
+    width: 280px;
+    height: 280px;
+    background: url("file:///C:/VE/00_IDs/DP.jpg") no-repeat border;
+    
+    display: inline-block;
+}
+.card:hover {
+    background: url("file:///C:/Users/pranjalchaubey/Desktop/pranjal%20profile.png") no-repeat;
+}

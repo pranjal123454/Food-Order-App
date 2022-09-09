@@ -1,0 +1,45 @@
+body{
+    background-color:#C1CFC0;
+  }
+  hr{
+    background-color: white;
+    border-style: none;
+    width: 100%;
+  }
+  h1{
+    color:#297F87;
+  
+  
+  }
+  h2{
+    color:#297F87;
+  }
+  
+  h3{
+    color:#297F87;
+  }
+  
+  .dp{
+    border-radius: 50%;
+    height: 160px;
+    width: 150px;
+  }
+  .Aboutus{
+    background-image: url('https://ak8.picdn.net/shutterstock/videos/27280738/thumb/1.jpg');
+    /* background-position: center; */
+    background-size: 100%;
+  }
+.tbody{
+ margin-left: 100px;
+
+
+}
+.skills{
+padding-right: 60%;
+box-sizing: border-box;
+}
+.ratings{
+  
+  padding-left: -80%;
+
+}

@@ -1,0 +1,137 @@
+.footer {
+    background-color: #9c9c9c;
+    /* margin-bottom: 0; */
+  }
+  .footer_images {
+    width: 285px;
+    height: 285px;
+     display: flex; 
+     
+  /* flex-direction: column; */
+    /* gap: 0.08rem; */
+    background-color: #9c9c9c;
+  }
+  .footer_images:hover {
+    cursor: pointer;
+  
+    box-sizing: border-box;
+  }
+  .img_1 {
+    border: 3rem;
+    border-radius: 0.2rem;
+    /* opacity: 0.7; */
+    border-image: fill;
+    border-inline-color: black;
+    /* border-radius: 100%; */
+  }
+  .img_1:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+    shape-image-threshold: inherit;
+    
+  }
+  .img_2 {
+    border-radius: 0.2rem;
+    /* opacity: 0.7; */
+    /* border-radius: 100%; */
+  }
+  .img_3 {
+    border-radius: 0.2rem;
+    opacity: 0.7;
+    /* border-radius: 100%; */
+  }
+  .img_4 {
+    border-radius: 0.2rem;
+    /* opacity: 0.7; */
+    /* border-radius: 100%; */
+  }
+  .img_5 {
+    border-radius: 0.2rem;
+    /* opacity: 0.7; */
+    /* border-radius: 100%; */
+  }
+  .img_6 {
+    border-radius: 0.2rem;
+    /* opacity: 0.7; */
+    /* border-radius: 100%; */
+  }
+  /* .img_7{
+      border-radius: 0.2rem;
+      
+  } */
+  .img_2:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+    
+  }
+  .img_3:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+  }
+  .img_4:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+  }
+  .img_5:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+  }
+  .img_6:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+  }
+  .img_7:hover {
+    transform: scale(1.15);
+    transition: transform 0.5s;
+    opacity: 3;
+  }
+  
+  .footer_text {
+    align-items: center;
+    padding-left: 12rem;
+    font-size: 6rem;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #297F87;
+  }
+  .footer_text > span:nth-of-type(1) {
+    color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #297F87;
+  }
+  .footer_text > span:nth-of-type(3) {
+    color: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #297F87;
+  }
+  .lower_text_of_footer {
+    font-style: italic;
+    /* padding-left: 10%; */
+  }
+  .city_names {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 40px;
+    text-transform: uppercase;
+    font-style: italic;
+  }
+  .our_stores {
+    padding-left: 3%;
+  }
+  .List{
+    display: flex;
+    gap: 4rem;
+    
+  }
+  
+    
+
+ 

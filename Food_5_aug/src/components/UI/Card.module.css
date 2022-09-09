@@ -1,0 +1,14 @@
+.card {
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+.card:hover{
+  /* background-color: rgb(6, 99, 124); */
+  box-shadow: inset;
+  border: 5rem;
+  border-color: black;
+  font-style: italic;
+  border-color: black;
+}
